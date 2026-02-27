@@ -1,5 +1,5 @@
 # astra
-My first flutter code to learn it. 
+My first dart code to learn it. 
 
 import 'dart:convert';
 import 'dart:io';
@@ -14,7 +14,7 @@ import 'package:permission_handler/permission_handler.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 i use these libraries to open this dart code 
 
-A new Flutter project.
+A new flutter project.
 
 ## Getting Started
 
