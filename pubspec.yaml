@@ -95,3 +95,21 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP ve Veri İşleme
+  http: ^1.2.0
+  shared_preferences: ^2.2.2
+  
+  # Tasarım ve Fontlar
+  google_fonts: ^6.1.0
+  
+  # Medya ve Dosya İşlemleri
+  image_picker: ^1.0.7
+  record: ^5.1.0
+  path_provider: ^2.1.2
+  
+  # İzinler ve Jestler
+  permission_handler: ^11.3.0
