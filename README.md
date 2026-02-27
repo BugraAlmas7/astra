@@ -1,5 +1,5 @@
 # astra
-My first dart code to learn it. 
+My first dart code to learn flutter and dart. 
 
 import 'dart:convert';
 import 'dart:io';
